@@ -1,0 +1,7 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[co]
+media/
+backend/__pycache__/
+reports/__pycache__/
+reports/migrations/
